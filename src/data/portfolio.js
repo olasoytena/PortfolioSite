@@ -3,7 +3,7 @@ export default [
         title: 'Portfolio Website',
         imgUrl: '/assets/temporaryPage.png',
         stack: ['HTML', 'CSS', 'JavaScript', 'React'],
-        link: 'http://localhost:5173',
+        link: 'https://github.com/olasoytena/PortfolioSite',
     },
     {
         title: 'Graphics Terrain Generator',
