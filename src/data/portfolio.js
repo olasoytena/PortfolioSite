@@ -2,7 +2,7 @@ export default [
     {
         title: 'Portfolio Website',
         imgUrl: '/assets/temporaryPage.png',
-        stack: ['HTML', 'CSS', 'JavaScript', 'React'],
+        stack: [, 'Tailwind', 'Vite', 'React'],
         link: 'https://github.com/olasoytena/PortfolioSite',
     },
     {
@@ -17,11 +17,6 @@ export default [
         stack: ['Python', 'Tensorflow', 'Jupiter Notebook', 'Machine Learning'],
         link: 'https://github.com/olasoytena/TrafficLightRecognition',
     },
-    {
-        title: 'Portfolio Website',
-        imgUrl: '/assets/temporaryPage.png',
-        stack: ['HTML', 'CSS', 'JavaScript', 'React'],
-        link: 'http://localhost:5173',
-    },
+    
     
 ]

@@ -3,7 +3,7 @@ import React from "react";
 function PortfolioItem({title, imgUrl, stack, link}) {
     return (
     <a target="_blank" rel="noopener no referrer" href={link} 
-    className="border-2 border-stone-900 rounded-md overflow-hidden">
+    className="border-4 border-yellow-950 rounded-md overflow-hidden bg-white">
         <img 
             src={imgUrl} 
             alt="portfolio" 

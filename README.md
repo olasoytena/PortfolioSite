@@ -4,4 +4,6 @@
 - React
 - Javascript
 - HTML
-- CSS
+- Tailwind CSS
+- Vite
+

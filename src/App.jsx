@@ -8,7 +8,7 @@ import Timeline from './components/timeline';
 function App() {
 
   return (
-    <div className='max-w-5xl w-11/12 mx-auto'>
+    <div className='max-w-5xl w-11/12 mx-auto '>
       <Intro/>
       <Portfolio/>
       <Timeline/>
